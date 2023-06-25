@@ -11,11 +11,36 @@ To get started, you will need to:
 3. Start typing some code.
 4. GitHub Copilot will start generating suggestions.
 
+
+
+## Tips
+
+Here are some tips for using GitHub Copilot:
+
+* Start by typing some simple code. GitHub Copilot will start generating suggestions based on what you have typed.
+* Use the Tab key to accept a suggestion.
+* You can also use the up and down arrow keys to navigate through the suggestions.
+* If you don't like a suggestion, you can just delete it and start over.
+* You can edit the `index.html` file to change the message that is displayed.
+* You can edit the `style.css` file to change the appearance of the page.
+* You can run the `index.html` file in a web browser to see the changes.
+
+## Team Members
+
+Our Chat Bot project is a collaborative effort by a team of dedicated individuals. Here are the team members who contributed to the development of the application:
+
+- [@AdarshaHalder](https://github.com/AdarshaHalder)
+- [@swarnajha](https://github.com/swarnajha)
+#screenshot
+![App Screenshot](https://github.com/AdarshaHalder/financemanagement/blob/master/WhatsApp%20Image%202023-06-25%20at%2014.39.40.jpeg)
+![App Screenshot](https://github.com/AdarshaHalder/financemanagement/blob/master/WhatsApp%20Image%202023-06-25%20at%2014.42.41.jpeg)
+
 ## Example
 
 The following is an example of how to use GitHub Copilot to generate code:
 
 ```html
+<!DOCTYPE html>
 <html>
 <head>
 <title>GitHub Copilot Project</title>
@@ -32,27 +57,8 @@ function hello() {
 </html>
 
 
-## Tips
-
-Here are some tips for using GitHub Copilot:
-
-* Start by typing some simple code. GitHub Copilot will start generating suggestions based on what you have typed.
-* Use the Tab key to accept a suggestion.
-* You can also use the up and down arrow keys to navigate through the suggestions.
-* If you don't like a suggestion, you can just delete it and start over.
-* You can edit the `index.html` file to change the message that is displayed.
-* You can edit the `style.css` file to change the appearance of the page.
-* You can run the `index.html` file in a web browser to see the changes.
-
 ## Conclusion
 
 GitHub Copilot is a powerful tool that can help you to write code more quickly and easily. With a little practice, you will be able to use it to generate code for a variety of projects.
-#Author
-1)Adarsha Halder[https://github.com/AdarshaHalder]
-2)Swarna Jha[https://github.com/swarnajha]
-#screenshot
-![Screenshot](https://github.com/AdarshaHalder/financemanagement/blob/master/WhatsApp%20Image%202023-06-25%20at%2014.39.40.jpeg)
-![Screenshot](https://github.com/AdarshaHalder/financemanagement/blob/master/WhatsApp%20Image%202023-06-25%20at%2014.42.41.jpeg)
-
 
 I hope this helps!
